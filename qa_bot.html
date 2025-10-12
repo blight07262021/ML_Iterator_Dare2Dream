@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Insight AI - Q&A Bot</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="cosmic-background">
+        <div class="bokeh-particle"></div>
+        <div class="bokeh-particle"></div>
+        <div class="bokeh-particle"></div>
+        <div class="bokeh-particle"></div>
+        <div class="bokeh-particle"></div>
+        <div class="bokeh-particle"></div>
+    </div>
+
+    <div class="container" id="qa-container">
+        <h1>Project Insights Q&A</h1>
+        <p>Ask questions about the interviews conducted for this project. The AI will answer based on the collected summaries.</p>
+        
+        <div class="sync-section">
+            <button id="sync-button">Prepare Insights</button>
+            <p id="sync-status" class="sync-status">Click the button to analyze and prepare interview summaries for questioning.</p>
+        </div>
+
+        <div id="qa-box" class="chat-box-style">
+            <!-- Q&A messages will appear here -->
+        </div>
+        <form id="qa-input-form">
+            <input type="text" id="qa-input" placeholder="e.g., What was the main feedback about pricing?" autocomplete="off" required disabled>
+            <button type="submit" id="qa-submit-button" disabled>Ask</button>
+        </form>
+    </div>
+    <script src="qa_bot.js"></script>
+</body>
+</html>

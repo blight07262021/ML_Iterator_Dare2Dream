@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Insight AI - Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="cosmic-background">
+        <div class="bokeh-particle"></div>
+        <div class="bokeh-particle"></div>
+        <div class="bokeh-particle"></div>
+        <div class="bokeh-particle"></div>
+        <div class="bokeh-particle"></div>
+        <div class="bokeh-particle"></div>
+    </div>
+
+    <div class="container">
+        <h1>Insight AI Dashboard</h1>
+
+        <section id="create-project">
+            <h2>Create a New Research Project</h2>
+            <form id="projectForm">
+                <div>
+                    <label for="company_description">Company Description</label>
+                    <textarea id="company_description" name="company_description" placeholder="e.g., A startup building productivity tools for creative professionals." required></textarea>
+                </div>
+                <div>
+                    <label for="product_idea">Product Idea</label>
+                    <textarea id="product_idea" name="product_idea" placeholder="e.g., An AI-powered app that automatically organizes design assets." required></textarea>
+                </div>
+                <div>
+                    <label for="target_audience">Target Audience</label>
+                    <textarea id="target_audience" name="target_audience" placeholder="e.g., Freelance graphic designers and small agency teams." required></textarea>
+                </div>
+                <div>
+                    <label for="core_problem">Core Problem / Question</label>
+                    <textarea id="core_problem" name="core_problem" placeholder="e.g., How do designers currently manage their assets, and what are their biggest frustrations?" required></textarea>
+                </div>
+                <button type="submit">Create Project</button>
+            </form>
+            <div id="projectLink" style="display:none;">
+                <p>Project created! Share this link with respondents:</p>
+                <a href="" id="shareableLink" target="_blank"></a>
+            </div>
+        </section>
+
+        <section id="projects-list">
+            <h2>Existing Projects & Insights</h2>
+            <div id="projectsContainer">
+                <p>Loading projects...</p>
+            </div>
+        </section>
+        
+    </div>
+    <script src="app.js"></script>
+    
+</body>
+</html>
