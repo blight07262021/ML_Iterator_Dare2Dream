@@ -41,52 +41,46 @@ It dramatically reduces the time and cost of traditional methods by conducting *
 
 ## ⚙️ Setup Instructions
 
-### File structure
+### File Structure
 
-insight-ai/
-│
-├── backend/
-│   ├── app/
-│   │   ├── __init__.py         # Makes the 'app' directory a Python package
-│   │   ├── crud.py             # Handles database create, read, update, delete operations
-│   │   ├── database.py         # Configures the connection to the MySQL database
-│   │   ├── llm_service.py      # Contains all logic for interacting with the LLM (LangChain, Groq)
-│   │   ├── main.py             # The main FastAPI application file, defines API endpoints
-│   │   ├── models.py           # Defines SQLAlchemy ORM models and Pydantic schemas
-│   │   └── vector_db_service.py# Manages interactions with the ChromaDB vector database
-│   │
-│   ├── .env                    # Stores environment variables like API keys (not in version control)
-│   └── requirements.txt        # Lists all Python dependencies for the backend
-│
-├── frontend/
-│   ├── index.html              # The main project dashboard page
-│   ├── app.js                  # JavaScript for the main dashboard
-│   ├── interview.html          # The page for conducting an AI interview
-│   ├── chat.js                 # JavaScript for the interview chat interface
-│   ├── qa_bot.html             # The page for the question-answering bot
-│   ├── qa_bot.js               # JavaScript for the Q&A bot interface
-│   └── style.css               # Shared CSS for all frontend pages
-│
-└── README.md                   # The main project documentation file for your repository
+- `insight-ai/`
+  - `backend/`
+    - `app/`
+      - `__init__.py` - Makes the 'app' directory a Python package
+      - `crud.py` - Handles database create, read, update, delete operations
+      - `database.py` - Configures the connection to the MySQL database
+      - `llm_service.py` - Contains all logic for interacting with the LLM (LangChain, Groq)
+      - `main.py` - The main FastAPI application file, defines API endpoints
+      - `models.py` - Defines SQLAlchemy ORM models and Pydantic schemas
+      - `vector_db_service.py` - Manages interactions with the ChromaDB vector database
+    - `.env` - Stores environment variables like API keys (not in version control)
+    - `requirements.txt` - Lists all Python dependencies for the backend
+  - `frontend/`
+    - `index.html` - The main project dashboard page
+    - `app.js` - JavaScript for the main dashboard
+    - `interview.html` - The page for conducting an AI interview
+    - `chat.js` - JavaScript for the interview chat interface
+    - `qa_bot.html` - The page for the question-answering bot
+    - `qa_bot.js` - JavaScript for the Q&A bot interface
+    - `style.css` - Shared CSS for all frontend pages
+  - `README.md` - The main project documentation file for your repository
 
 ### 1️⃣ Backend Setup
 
-'''bash
-# Clone the repository and navigate to the backend
+
+### Clone the repository and navigate to the backend
 git clone https://github.com/your-username/insight-ai.git
 cd insight-ai/backend
 
-# Create and activate a virtual environment
+### Create and activate a virtual environment
 python -m venv venv
-# On Windows
+### On Windows
 venv\Scripts\activate
-# On macOS/Linux
+### On macOS/Linux
 source venv/bin/activate
 
-# Install dependencies
+### Install dependencies
 pip install -r requirements.txt
-
-
 
 
 ##  Create a .env file in backend/app with your Groq API key:
